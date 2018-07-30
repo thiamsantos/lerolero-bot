@@ -13,5 +13,14 @@
     "discord.js": "^11.3.2",
     "dotenv": "^6.0.0",
     "lerolero": "0.0.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiamsantos/lerolero-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thiamsantos/lerolero-bot/issues"
+  },
+  "homepage": "https://github.com/thiamsantos/lerolero-bot#readme"
 }
