@@ -1,0 +1,17 @@
+{
+  "name": "lerolero-bot",
+  "version": "1.0.0",
+  "description": "Lerolero discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thiago Santos",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0",
+    "lerolero": "0.0.1"
+  }
+}
